@@ -1,0 +1,13 @@
+:root {
+    /* Theme Color */
+    --color-background: oklch(0.000% 0.0000 0.00);
+    --color-background-base: oklch(18.2% 0.0000000000000000984 0deg);
+
+    --color-background-elevated-base: oklch(23.9% 0.000000000000000174 0deg);
+    --color-background-elevated-highlight: oklch(28.5% 0.0000000000000000939 0deg);
+    --color-text-base: oklch(100% 0.0000000000000005 0deg);
+    --color-primary: oklch(77% 0.212 149deg);
+
+    /** Theme */
+    --bottom-navigation-height: 3rem;
+}

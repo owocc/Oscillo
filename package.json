@@ -1,0 +1,11 @@
+{
+  "name": "oscillo",
+  "private": true,
+  "scripts": {
+    "dev:web":"bun --filter @oscillo/app dev"
+  },
+  "workspaces":[
+    "packages/*",
+    "apps/*"
+  ]
+}
